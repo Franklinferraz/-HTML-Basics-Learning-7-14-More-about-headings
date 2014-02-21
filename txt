@@ -1,0 +1,19 @@
+More about headings!
+HTML actually lets us have more than one heading size. 
+There are six heading sizes, where <h1> is the boss and <h6> is puny!
+
+<h1> - The CEO
+<h2> - VP
+<h3> - Director
+<h4> - Middle management
+<h5> - Lowly assistant
+<h6> - Gets coffee for everyone
+Below we'll ask you to add headings of various sizes. 
+Feel free to write whatever you like for the headings!
+
+Instructions
+Your code currently has one <h1> heading and two paragraphs.
+Add an <h3> heading before the second paragraph.
+Add an <h5> heading after the second paragraph, and then add a third paragraph after this heading.
+
+Q&A Forum Glossary
